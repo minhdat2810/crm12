@@ -1,1 +1,2 @@
 Hello
+Máy B làm chức năng gửi sms
