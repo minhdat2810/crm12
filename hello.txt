@@ -1,1 +1,2 @@
-Hello
+Hello 
+Máy A làm tính năng gửi mail
