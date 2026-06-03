@@ -1,2 +1,4 @@
+Hello
+Máy B làm chức năng gửi sms
 Hello 
 Máy A làm tính năng gửi mail
